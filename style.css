@@ -1,0 +1,14 @@
+#one {
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 24px;
+  color: rgb(51, 49, 46);
+}
+
+#image {
+  border: 50px;
+  max-width: fit-content;
+}
+
+.links {
+  color:rgb(175, 22, 42);
+}
